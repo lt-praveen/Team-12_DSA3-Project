@@ -1,0 +1,17 @@
+LEGAL DOCUMENT 050
+
+Case Number: CYB-2026-050
+Case Title: Unauthorized Access Case
+Category: Cyber
+
+CASE SUMMARY
+The complaint concerned an incident involving digital systems, electronic communication, online activity, or computer data. Investigators examined digital records, access logs, transaction information, messages, device information, and other electronic evidence. The case required evaluation of the authenticity and relevance of digital records.
+
+CASE DETAILS
+This document is part of the legal document corpus for the Legal Document Repository project. It contains representative case information for testing and evaluating string matching algorithms. Relevant terms occur throughout the document so that pattern searches can be performed on a realistic text corpus.
+
+SEARCH KEYWORDS
+cyber, court, legal document, case, dispute, evidence, petitioner, respondent, unauthorized access case
+
+DOCUMENT STATUS
+Filed for academic project corpus and algorithm testing.

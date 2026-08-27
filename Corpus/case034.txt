@@ -1,0 +1,17 @@
+LEGAL DOCUMENT 034
+
+Case Number: COR-2026-034
+Case Title: Merger Agreement Dispute
+Category: Corporate
+
+CASE SUMMARY
+The dispute arose from the management, ownership, or commercial activities of a company. The record included company resolutions, agreements, financial statements, share records, notices, and correspondence. The court examined the documents to determine the rights and obligations of the parties.
+
+CASE DETAILS
+This document is part of the legal document corpus for the Legal Document Repository project. It contains representative case information for testing and evaluating string matching algorithms. Relevant terms occur throughout the document so that pattern searches can be performed on a realistic text corpus.
+
+SEARCH KEYWORDS
+corporate, court, legal document, case, dispute, evidence, petitioner, respondent, merger agreement dispute
+
+DOCUMENT STATUS
+Filed for academic project corpus and algorithm testing.

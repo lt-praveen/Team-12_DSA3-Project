@@ -1,0 +1,17 @@
+LEGAL DOCUMENT 014
+
+Case Number: CRI-2026-014
+Case Title: Criminal Assault Case
+Category: Criminal
+
+CASE SUMMARY
+The prosecution presented a criminal allegation against the accused. The investigation record included witness statements, documentary evidence, transaction details, official reports, and other material collected during the investigation. The court evaluated the evidence and the circumstances before deciding the matter.
+
+CASE DETAILS
+This document is part of the legal document corpus for the Legal Document Repository project. It contains representative case information for testing and evaluating string matching algorithms. Relevant terms occur throughout the document so that pattern searches can be performed on a realistic text corpus.
+
+SEARCH KEYWORDS
+criminal, court, legal document, case, dispute, evidence, petitioner, respondent, criminal assault case
+
+DOCUMENT STATUS
+Filed for academic project corpus and algorithm testing.

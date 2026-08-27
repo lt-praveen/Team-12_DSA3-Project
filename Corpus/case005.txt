@@ -1,0 +1,17 @@
+LEGAL DOCUMENT 005
+
+Case Number: CIV-2026-005
+Case Title: Agricultural Land Transfer
+Category: Civil
+
+CASE SUMMARY
+The petitioner filed a civil case concerning rights over property and possession. The court examined title records, agreements, registration documents, survey records, statements of the parties, and other evidence. The dispute required determination of ownership, lawful possession, and the obligations of the parties.
+
+CASE DETAILS
+This document is part of the legal document corpus for the Legal Document Repository project. It contains representative case information for testing and evaluating string matching algorithms. Relevant terms occur throughout the document so that pattern searches can be performed on a realistic text corpus.
+
+SEARCH KEYWORDS
+civil, court, legal document, case, dispute, evidence, petitioner, respondent, agricultural land transfer
+
+DOCUMENT STATUS
+Filed for academic project corpus and algorithm testing.

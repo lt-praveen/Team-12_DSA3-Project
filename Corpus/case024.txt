@@ -1,0 +1,17 @@
+LEGAL DOCUMENT 024
+
+Case Number: CON-2026-024
+Case Title: Travel Service Complaint
+Category: Consumer
+
+CASE SUMMARY
+A consumer filed a complaint concerning a product or service and requested appropriate relief. The record included invoices, warranty documents, service records, payment information, complaint correspondence, and inspection reports. The authority considered whether the product or service met the promised standard.
+
+CASE DETAILS
+This document is part of the legal document corpus for the Legal Document Repository project. It contains representative case information for testing and evaluating string matching algorithms. Relevant terms occur throughout the document so that pattern searches can be performed on a realistic text corpus.
+
+SEARCH KEYWORDS
+consumer, court, legal document, case, dispute, evidence, petitioner, respondent, travel service complaint
+
+DOCUMENT STATUS
+Filed for academic project corpus and algorithm testing.

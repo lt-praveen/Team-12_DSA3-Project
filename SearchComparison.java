@@ -155,7 +155,7 @@ public class SearchComparison {
             SuffixAutomaton.init();
 
             for (char c : text.toCharArray()) {
-                if (c >= 'a' && c <= 'z')
+                if (c < 256)
                     SuffixAutomaton.extend(c);
             }
 
@@ -224,5 +224,16 @@ public class SearchComparison {
             System.out.println("RESULT: Some algorithms need correction.");
 
         System.out.println("==============================================");
+
+        if (!baseline.isEmpty()) {
+            System.out.println("\n--- MATCHING CASE DETAILS ---");
+            for (String fileName : baseline) {
+                File matchedFile = new File(folder, fileName);
+                System.out.println("\n>> " + fileName.toUpperCase() + " <<");
+                String content = new String(Files.readAllBytes(matchedFile.toPath()));
+                System.out.println(content);
+            }
+            System.out.println("----------------------------------------------");
+        }
     }
 }

@@ -1,0 +1,17 @@
+LEGAL DOCUMENT 029
+
+Case Number: FAM-2026-029
+Case Title: Family Property Settlement
+Category: Family
+
+CASE SUMMARY
+The petitioner approached the court regarding a family-law dispute. The record included relationship documents, financial information, statements of the parties, and supporting evidence. The court considered the circumstances of the family, the applicable legal provisions, and the interests of the persons involved.
+
+CASE DETAILS
+This document is part of the legal document corpus for the Legal Document Repository project. It contains representative case information for testing and evaluating string matching algorithms. Relevant terms occur throughout the document so that pattern searches can be performed on a realistic text corpus.
+
+SEARCH KEYWORDS
+family, court, legal document, case, dispute, evidence, petitioner, respondent, family property settlement
+
+DOCUMENT STATUS
+Filed for academic project corpus and algorithm testing.

@@ -1,0 +1,9 @@
+JDK 17+
+
+Compile:
+javac -d out "Praveen's_Algorithms"/*.java Dharani_Algorithms/*.java Nishanth_Algorithms/*.java *.java
+
+Run:
+java -cp out Main
+
+For the cleanest demo choose menu option 4.

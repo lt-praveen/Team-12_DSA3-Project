@@ -1,0 +1,17 @@
+LEGAL DOCUMENT 057
+
+Case Number: ENV-2026-057
+Case Title: Forest Land Protection Case
+Category: Environmental
+
+CASE SUMMARY
+The petitioner raised concerns about environmental impact and requested appropriate action. The record included inspection reports, environmental measurements, maps, permits, photographs, laboratory results, and regulatory correspondence. The authority examined the evidence and applicable environmental requirements.
+
+CASE DETAILS
+This document is part of the legal document corpus for the Legal Document Repository project. It contains representative case information for testing and evaluating string matching algorithms. Relevant terms occur throughout the document so that pattern searches can be performed on a realistic text corpus.
+
+SEARCH KEYWORDS
+environmental, court, legal document, case, dispute, evidence, petitioner, respondent, forest land protection case
+
+DOCUMENT STATUS
+Filed for academic project corpus and algorithm testing.

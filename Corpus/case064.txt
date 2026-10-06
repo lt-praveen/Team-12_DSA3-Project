@@ -1,0 +1,17 @@
+LEGAL DOCUMENT 064
+
+Case Number: INT-2026-064
+Case Title: Software Copyright Case
+Category: Intellectual Property
+
+CASE SUMMARY
+The claimant alleged unauthorized use of protected intellectual property. The record included registration certificates, original works, product samples, advertisements, licensing documents, and correspondence. The court considered ownership, similarity, authorization, and the commercial use of the disputed material.
+
+CASE DETAILS
+This document is part of the legal document corpus for the Legal Document Repository project. It contains representative case information for testing and evaluating string matching algorithms. Relevant terms occur throughout the document so that pattern searches can be performed on a realistic text corpus.
+
+SEARCH KEYWORDS
+intellectual property, court, legal document, case, dispute, evidence, petitioner, respondent, software copyright case
+
+DOCUMENT STATUS
+Filed for academic project corpus and algorithm testing.

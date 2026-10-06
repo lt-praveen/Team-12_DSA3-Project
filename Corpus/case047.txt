@@ -1,0 +1,17 @@
+LEGAL DOCUMENT 047
+
+Case Number: LAB-2026-047
+Case Title: Workplace Harassment Complaint
+Category: Labour
+
+CASE SUMMARY
+The employee raised a dispute concerning employment conditions, wages, termination, workplace conduct, or statutory benefits. The record included employment agreements, attendance records, salary statements, notices, workplace reports, and correspondence. The authority examined the employment relationship and applicable labour requirements.
+
+CASE DETAILS
+This document is part of the legal document corpus for the Legal Document Repository project. It contains representative case information for testing and evaluating string matching algorithms. Relevant terms occur throughout the document so that pattern searches can be performed on a realistic text corpus.
+
+SEARCH KEYWORDS
+labour, court, legal document, case, dispute, evidence, petitioner, respondent, workplace harassment complaint
+
+DOCUMENT STATUS
+Filed for academic project corpus and algorithm testing.
